@@ -11,6 +11,6 @@ namespace SystemTrayApp.DataObjects
 
         public string Username;
 
-        public string Password; // yes, it's a string, it's literally read from a config file, deal with it.
+        public string Password; 
     }
 }
