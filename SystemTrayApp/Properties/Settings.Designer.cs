@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SystemTrayApp.Properties {
+namespace mqtthotkeys.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

@@ -8,7 +8,6 @@ namespace SystemTrayApp
 {
     public class STAApplicationContext : ApplicationContext
     {
-        
         public STAApplicationContext()
         {
             HotKey key = new HotKey(Key.NumPad8, ModifierKeys.Control | ModifierKeys.Alt);
